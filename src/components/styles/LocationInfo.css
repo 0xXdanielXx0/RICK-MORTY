@@ -1,0 +1,25 @@
+.location_card{
+    background-color: var(--bg-card);
+    color:white;
+    width: 100%;
+    max-width: 800px;
+    border-radius: 0.8em;
+    overflow: hidden;
+    margin-left: 19em;
+    margin-top: 1em;
+   
+   
+}
+
+
+
+.location_name{
+    text-align: center;
+    color: rgb(0, 221, 0);
+}
+
+.location_first{
+    color: #aaa;
+    margin-left: 9.5em;
+    
+}

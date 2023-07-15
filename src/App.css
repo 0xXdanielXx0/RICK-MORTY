@@ -1,0 +1,10 @@
+.resident-container{
+    display:flex;
+    gap: 2em;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+input, button {
+    font-size: 1,5rem;
+}

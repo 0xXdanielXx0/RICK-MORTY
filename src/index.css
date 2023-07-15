@@ -1,0 +1,43 @@
+
+
+
+
+:root{
+    --bg-card: #1A262A;
+    --color-green: rgb(13, 230, 13);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #151d20;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+h1, h1, h3, p, ul, hr{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+
+img{
+    display: block;
+}
+
+input, button {
+    font-family: inherit;
+    border: none;
+}
+
+button{
+    cursor: pointer;
+}
